@@ -1,14 +1,14 @@
 # FIAP_ARQUITETURAUX
 
-Story Telling sobre o problema
+Story Telling sobre o problema																											Um homem decide comprar uma casinha de cachorro online com entrega rápida. Após algumas semanas, a casinha chega, mas ele percebe que o tamanho está errado. Tentando devolver o produto, ele enfrenta dificuldades no processo de devolução online, o que o deixa frustrado. Sem sucesso pela internet, ele vai até uma pet shop local, onde finalmente consegue resolver o problema e trocar a casinha por uma de tamanho adequado. 
 			
-O que esperamos aprender com esse projeto?
+O que esperamos aprender com esse projeto?																									
 De forma Geral, esta iniciativa nos trará uma visão mais aprofundada da arquitetura presente em um dos principais provedores de material e alimentos para animais, trará um maior entendimento sobre os padrões utilizados e uma visão de oportunidades no setor.
 
-Que perguntas precisamos que sejam respondidas?
+Que perguntas precisamos que sejam respondidas?																									
  Algumas perguntas essenciais surgem, como: 'Como são geradas divergências na devolução?', 'Quais são as restrições de regulamentação nacional e internacional?', 'Quais são os requisitos contábeis e fiscais?', e 'O que meu cliente busca?'. Essas dúvidas guiam nosso processo de entendimento.
 
-Quais são os nossos principais riscos?
+Quais são os nossos principais riscos?																										
 os principais riscos relacionados à devolução de produtos. Entre eles estão o prazo de devolução, que deve atender à Lei do Consumidor; o risco de fraude, onde é importante identificar se o produto já foi usado; a necessidade de armazenamento adequado; devoluções incorretas, regulamentações do MAPA, e processos de destruição ou reuso dos produtos devolvidos."
 
 
