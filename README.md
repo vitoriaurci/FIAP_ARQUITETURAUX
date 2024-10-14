@@ -1,6 +1,6 @@
 # FIAP_ARQUITETURAUX
 
-Story Telling sobre o problema																											Um homem decide comprar uma casinha de cachorro online com entrega rápida. Após algumas semanas, a casinha chega, mas ele percebe que o tamanho está errado. Tentando devolver o produto, ele enfrenta dificuldades no processo de devolução online, o que o deixa frustrado. Sem sucesso pela internet, ele vai até uma pet shop local, onde finalmente consegue resolver o problema e trocar a casinha por uma de tamanho adequado. 
+Story Telling sobre o problema                                        																					Um homem decide comprar uma casinha de cachorro online com entrega rápida. Após algumas semanas, a casinha chega, mas ele percebe que o tamanho está errado. Tentando devolver o produto, ele enfrenta dificuldades no processo de devolução online, o que o deixa frustrado. Sem sucesso pela internet, ele vai até uma pet shop local, onde finalmente consegue resolver o problema e trocar a casinha por uma de tamanho adequado. 
 			
 O que esperamos aprender com esse projeto?																									
 De forma Geral, esta iniciativa nos trará uma visão mais aprofundada da arquitetura presente em um dos principais provedores de material e alimentos para animais, trará um maior entendimento sobre os padrões utilizados e uma visão de oportunidades no setor.
